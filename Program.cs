@@ -181,28 +181,11 @@ internal class Program
 
          // **** 9. Sorting****** Order, OrderBy, OrderDescending, OrderByDescending, ThenBy, ThenByDescending, Reverse
 
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
+         Enumerable.Range(0,2).Dump();
 
 
     }
 }
-
-
 
 
 public class Customer
